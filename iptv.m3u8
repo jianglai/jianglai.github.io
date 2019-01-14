@@ -213,3 +213,29 @@ http://ipv6.bjtu.edu.cn/hls/lytv.m3u8
 http://ipv6.bjtu.edu.cn/hls/discovery.m3u8
 #EXTINF:0 group-title="SDTV",国家地理
 http://ipv6.bjtu.edu.cn/hls/natlgeo.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-1
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv1.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-2
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv2.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-3
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv3.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-5
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv5.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-6
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv6.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-7
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv7.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-8
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv8.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-9
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv9.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-10
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv10.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-11
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv11.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-12
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv12.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-13
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv13.m3u8
+#EXTINF:0 group-title="SDTV",CCTV-15
+http://ipv6.bjtu.edu.cn/hls_bjtu/cctv15.m3u8
